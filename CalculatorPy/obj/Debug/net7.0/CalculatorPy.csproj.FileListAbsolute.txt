@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\CalculatorPy\CalculatorPy\bin\Debug\net7.0\CalculatorPy.deps.json
+C:\Users\Administrator\source\repos\CalculatorPy\CalculatorPy\bin\Debug\net7.0\CalculatorPy.dll
+C:\Users\Administrator\source\repos\CalculatorPy\CalculatorPy\bin\Debug\net7.0\CalculatorPy.pdb
+C:\Users\Administrator\source\repos\CalculatorPy\CalculatorPy\obj\Debug\net7.0\CalculatorPy.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CalculatorPy\CalculatorPy\obj\Debug\net7.0\CalculatorPy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CalculatorPy\CalculatorPy\obj\Debug\net7.0\CalculatorPy.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CalculatorPy\CalculatorPy\obj\Debug\net7.0\CalculatorPy.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CalculatorPy\CalculatorPy\obj\Debug\net7.0\CalculatorPy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CalculatorPy\CalculatorPy\obj\Debug\net7.0\CalculatorPy.dll
+C:\Users\Administrator\source\repos\CalculatorPy\CalculatorPy\obj\Debug\net7.0\refint\CalculatorPy.dll
+C:\Users\Administrator\source\repos\CalculatorPy\CalculatorPy\obj\Debug\net7.0\CalculatorPy.pdb
+C:\Users\Administrator\source\repos\CalculatorPy\CalculatorPy\obj\Debug\net7.0\ref\CalculatorPy.dll
